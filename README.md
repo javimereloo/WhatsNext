@@ -20,4 +20,6 @@ New functionalities will be added soon to this project:
 - Creation of the message sending routine
 - Screen for editing scheduled messages 
 
+# More info
+This project was started in 2021, for the subject Mobile App Development belonging to the Computer Engineering degree
 
