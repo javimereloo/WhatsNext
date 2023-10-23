@@ -1,5 +1,6 @@
 # What's Next 
 Whats next is a simple Flutter app prototype designed to schedule the sending of WhatsApp messages. 
+This project was started in 2021, for the subject Mobile App Development belonging to the Computer Engineering degree
 
 # What is working for the moment
 At the moment the application has 3 screens that simulate the aesthetics of the original application:
@@ -20,6 +21,5 @@ New functionalities will be added soon to this project:
 - Creation of the message sending routine
 - Screen for editing scheduled messages 
 
-# More info
-This project was started in 2021, for the subject Mobile App Development belonging to the Computer Engineering degree
+
 
